@@ -1,0 +1,23 @@
+{
+  "name": "fit2095week4lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehi0001/fit2095week4lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehi0001/fit2095week4lab/issues"
+  },
+  "homepage": "https://github.com/tehi0001/fit2095week4lab#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
